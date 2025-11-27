@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/react-notes-manager-178811-178820/notes_app_frontend"
+}
